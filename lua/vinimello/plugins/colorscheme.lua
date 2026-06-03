@@ -1,8 +1,9 @@
 return {
-	'mofiqul/dracula.nvim',
+	'catppuccin/nvim',
+	name="catppuccin",
 	priority = 1000,
 	opts = {
-		transparent_bg=true,
+		transparent_background=true,
 	},
 	init = function()
 		vim.cmd[[colorscheme catppuccin-latte]]
