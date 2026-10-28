@@ -1,0 +1,19 @@
+lua/vinimello/plugins/gitsigns.lua
+  s_98895d392eed14::t_1232b2b3f44629 8-17,19-21,23-31,33-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c6880cf888e58c96a88836f5d45edd6e3eb79871",
+  "prompts": {},
+  "sessions": {
+    "s_98895d392eed14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c12ad992-918b-4a98-9499-56483b7b5c1d",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Vinicius Mello <vinicius.mello@isystems.ai>"
+    }
+  }
+}
