@@ -1,0 +1,16 @@
+lazy-lock.json
+  h_9b553e79023992 9
+lua/vinimello/plugins/colorizer.lua
+  h_9b553e79023992 2-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a8fa18662138726a6a9e9121a7461d40b337ac76",
+  "prompts": {},
+  "humans": {
+    "h_9b553e79023992": {
+      "author": "Vinicius Mello <vinicius.mello@isystems.ai>"
+    }
+  }
+}

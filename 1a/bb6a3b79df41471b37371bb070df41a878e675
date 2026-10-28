@@ -1,0 +1,14 @@
+lazy-lock.json
+  h_9b553e79023992 3,11,28,31-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1abb6a3b79df41471b37371bb070df41a878e675",
+  "prompts": {},
+  "humans": {
+    "h_9b553e79023992": {
+      "author": "Vinicius Mello <vinicius.mello@isystems.ai>"
+    }
+  }
+}
