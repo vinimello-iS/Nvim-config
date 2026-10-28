@@ -1,0 +1,19 @@
+lua/vinimello/plugins/lsp.lua
+  s_98895d392eed14::t_3518734fac1421 60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a84707c18f03fbd63b4a8e314493d07f82d581dd",
+  "prompts": {},
+  "sessions": {
+    "s_98895d392eed14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c12ad992-918b-4a98-9499-56483b7b5c1d",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Vinicius Mello <vinicius.mello@isystems.ai>"
+    }
+  }
+}
