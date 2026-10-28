@@ -1,0 +1,18 @@
+lazy-lock.json
+  h_9b553e79023992 3,7-8,17-19,21-22,24,28,32
+lua/vinimello/plugins/gitsigns.lua
+  h_9b553e79023992 8-11,13-17,19-21,23-36
+lua/vinimello/plugins/lsp.lua
+  h_9b553e79023992 4-5,8-25,30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "02d87c1fa3da6820b9d98a410a9b2f854af46603",
+  "prompts": {},
+  "humans": {
+    "h_9b553e79023992": {
+      "author": "Vinicius Mello <vinicius.mello@isystems.ai>"
+    }
+  }
+}
