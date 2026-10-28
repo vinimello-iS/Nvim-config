@@ -1,0 +1,14 @@
+lua/vinimello/plugins/colorscheme.lua
+  h_9b553e79023992 2-3,6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ec4956f64686654630f92937ebce876389f3c168",
+  "prompts": {},
+  "humans": {
+    "h_9b553e79023992": {
+      "author": "Vinicius Mello <vinicius.mello@isystems.ai>"
+    }
+  }
+}
