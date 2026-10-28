@@ -1,0 +1,14 @@
+lua/vinimello/plugins/alpha.lua
+  h_9b553e79023992 24-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b2a0f31294986c291f25f168a134d1464589562e",
+  "prompts": {},
+  "humans": {
+    "h_9b553e79023992": {
+      "author": "Vinicius Mello <vinicius.mello@isystems.ai>"
+    }
+  }
+}
