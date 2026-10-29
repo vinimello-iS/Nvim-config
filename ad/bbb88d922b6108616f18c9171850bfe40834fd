@@ -1,0 +1,23 @@
+lua/vinimello/actions.lua
+  s_00f63826f35e5a::t_1cebf64a827d32 7-8
+  s_00f63826f35e5a::t_7459f7cb5de600 64-93,95-122
+  s_00f63826f35e5a::t_b1939da1217793 94
+lua/vinimello/init.lua
+  s_00f63826f35e5a::t_adb63b5d75375e 51-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "adbbb88d922b6108616f18c9171850bfe40834fd",
+  "prompts": {},
+  "sessions": {
+    "s_00f63826f35e5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d2dc2f4b-084f-4769-9214-619adda32251",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Vinicius Mello <vinicius.mello@isystems.ai>"
+    }
+  }
+}
