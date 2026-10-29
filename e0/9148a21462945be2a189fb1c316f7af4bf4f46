@@ -1,0 +1,21 @@
+lua/vinimello/plugins/lsp.lua
+  s_4680ad42b20134::t_961b9bb3994d13 25
+after/ftplugin/tex.lua
+  s_4680ad42b20134::t_7ea68e233152fb 7-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e09148a21462945be2a189fb1c316f7af4bf4f46",
+  "prompts": {},
+  "sessions": {
+    "s_4680ad42b20134": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2613bf2e-22e5-4365-8318-6ff7f06cb58d",
+        "model": "claude-haiku-5-5"
+      },
+      "human_author": "Vinicius Mello <vinicius.mello@isystems.ai>"
+    }
+  }
+}
